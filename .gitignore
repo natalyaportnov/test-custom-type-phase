@@ -2,3 +2,4 @@
 target/
 .settings/
 grails-app/i18n/
+web-app/WEB-INF/tld/
