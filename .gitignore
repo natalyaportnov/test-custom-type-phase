@@ -1,0 +1,5 @@
+*.log
+target/
+web-app/
+.settings/
+grails-app/i18n/
